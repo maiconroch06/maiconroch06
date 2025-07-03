@@ -1,13 +1,13 @@
-# Olá mundo! Eu sou o maicon Pablo!
+# Hello world! I'm maicon Pablo!
 
-Estou iniciando minha jornada na programação na faculdade de Tecnólogo em Análise e Desenvolvimento de Sistemas.
+I'm just starting my programming journey in college as a Systems Analysis and Development Technologist.
 
-## Sobre Mim
-- **Curso:** Tecnólogo em Análise e Desenvolvimento de Sistemas 2025.1
-- **Período:** Primeiro
-- **Linguagem de Programação:** C
+## About Me
+- Course:** Systems Analysis and Development Technologist 2025.1
+- **Period:** First
+- Programming Language:** C
 
-Sinta-se à vontade para explorar e acompanhar meu progresso!
+Feel free to explore and follow my progress!
 
 
 
