@@ -1,13 +1,8 @@
-# Hello world! I'm maicon Pablo!
+# Olá, mundo! Eu me chamo Maicon!
 
-I'm just starting my programming journey in college as a Systems Analysis and Development Technologist.
+Atualmente curso Análise e Desenvolvimento de Sistemas e estou em constante aprendizado no universo da programação.
 
-## About Me
-- **Course:** Systems Analysis and Development Technologist 2025.1
-- **Period:** First
-- **Programming Language:** C
-
-Feel free to explore and follow my progress!
+Sinta-se à vontade para explorar e acompanhar o meu progresso!
 
 ## 🤠 Minhas Estatisticas
 
