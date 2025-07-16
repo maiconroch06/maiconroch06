@@ -12,9 +12,9 @@ Sinta-se à vontade para explorar e acompanhar o meu progresso!
 
 <div align="center">
  <a>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconroch06&show_icons=true&hide_border=true&theme=github_dark" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconroch06&show_icons=true&hide_border=true&theme=github_dark"/>
    <!-- Grafico de rosca das linguagens <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconroch06&layout=donut&theme=github_dark" /> -->
-   <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconroch06&layout=compact&hide_border=true&theme=github_dark" />
+   <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconroch06&layout=compact&hide_border=true&theme=github_dark"/>
  </a>
   
   <!-- Intagram não organizado
