@@ -1,38 +1,35 @@
 name: generate animation
 
 on:
-  # Roda automaticamente a cada 24 horas
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # Permite rodar manualmente
+    - cron: "0 */24 * * *"
   workflow_dispatch:
-  
-  # Roda sempre que houver push na branch master
   push:
     branches:
       - master
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      # Gera o SVG da cobrinha com animação
-      - name: generate github-contribution-grid-snake.svg
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-          snake_color: '#58A6FF'         # Azul do tema github_dark
-          color_snake: '#58A6FF'         # Também define a cor da cobrinha
-          background_color: '#0D1117'    # Fundo escuro do GitHub Dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+          snake_color: '#58A6FF'
+          background_color: '#0D1117'
 
-      # Publica os arquivos SVG na branch `output`
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
