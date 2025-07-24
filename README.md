@@ -2,7 +2,7 @@
 
 <div align="center">
  <a>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maiconroch06&locale=pt-br&custom_title=Minhas+Estatísticas&show_icons=true&hide_border=true&theme=github_dark"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maiconroch06&locale=pt-br&custom_title=Minhas+estatísticas&show_icons=true&hide_border=true&theme=github_dark"/>
    <!-- Grafico de rosca das linguagens <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconroch06&layout=donut&theme=github_dark" /> -->
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconroch06&locale=pt-br&layout=compact&hide_border=true&theme=github_dark"/>
  </a>
